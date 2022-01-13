@@ -1,2 +1,6 @@
-# parking-project
-parking project
+# STM32-Magnetometer-Implementation
+The B-L072Z-LRWAN1 LoRa®Discovery kit is a development tool to learn and develop solutions based on LoRa®and FSK/OOK technologies. This Discovery kit features an all-in-one open module CMWX1ZZABZ-091 (by Murata). The module is powered by an STM32L072CZ and an SX1276 transceiver. The transceiver features the LoRa®long-range modem, providing ultra-long-range spread spectrum communication and high interference immunity, minimizing current consumption. Since CMWX1ZZABZ-091 is an open module, user has access to all STM32L072 peripherals such as ADC, 16-bit timer, LP-UART, I2C, SPI and USB 2.0 FS (supporting BCD and LPM).
+
+
+3-Axis Magnetic Sensor QMC5883L:
+The QMC5883L is a multi-chip three-axis magnetic sensor. This surface -mount, small sized chip has integrated magnetic sensors with signal condition ASIC, targeted for high precision applications such as compassing, navigation and gaming in drone, robot, mobile and personal hand-held devices. The QMC5883L is based on our state-of-the-art, high resolution, magneto-resistive technology licensed from Honeywell AMR technology. Along with custom-designed 16-bit ADC ASIC, it offers the advantages of low noise, high accuracy, low power consumption, offset cancellation and temperature compensation. QMC5883L enables 1° to 2° compass heading accuracy. The I²C serial bus allows for easy interface
